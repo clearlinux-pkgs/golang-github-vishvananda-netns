@@ -4,7 +4,7 @@
 #
 Name     : golang-github-vishvananda-netns
 Version  : 1fec6582c067519857603311ad090e23a5ca57de
-Release  : 6
+Release  : 7
 URL      : https://github.com/vishvananda/netns/archive/1fec6582c067519857603311ad090e23a5ca57de.tar.gz
 Source0  : https://github.com/vishvananda/netns/archive/1fec6582c067519857603311ad090e23a5ca57de.tar.gz
 Summary  : No detailed summary available
